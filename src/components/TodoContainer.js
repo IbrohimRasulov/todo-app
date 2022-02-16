@@ -1,3 +1,4 @@
+/* eslint-disable react/destructuring-assignment, react/no-access-state-in-setstate, no-param-reassign */
 import React from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import Header from './Header';

@@ -1,3 +1,4 @@
+/* eslint-disable react/destructuring-assignment, react/prop-types */
 import React, { Component } from 'react';
 
 class InputTodo extends Component {

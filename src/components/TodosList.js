@@ -1,3 +1,4 @@
+/* eslint-disable react/prefer-stateless-function, react/destructuring-assignment, react/prop-types,  */
 import React from 'react';
 import TodoItem from './TodoItem';
 

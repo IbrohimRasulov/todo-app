@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types, react/destructuring-assignment */
 import React from 'react';
 import styles from '../TodoItem.module.css';
 
